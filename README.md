@@ -6,7 +6,7 @@ Projeto que faz a listagem de tarefas para o seu planejamento no dia a dia
 
 Boas patricas sobre a arquitetura mpw, Transições de estado de estilização, crud por variaveis locais, Classes, Herança e Poliformismo, 
 Integridade de ligação entre Parâmetros e métodos, Orientação a objetos, Pop-up para alerta de pergunta, Transições de estados por componentizações, 
-Posionamentos de diagramações. 
+Posionamentos de diagramações, bibliotecas e plugins para acionamento de botões stlin. 
 
 ## Tecnologia Utilizada 
 
